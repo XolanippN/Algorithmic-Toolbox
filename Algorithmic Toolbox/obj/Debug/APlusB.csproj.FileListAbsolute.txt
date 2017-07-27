@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Algorithmic Toolbox\Algorithmic Toolbox\bin\Debug\Algorithmic Toolbox.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Algorithmic Toolbox\Algorithmic Toolbox\bin\Debug\Algorithmic Toolbox.exe
+c:\users\user\documents\visual studio 2015\Projects\Algorithmic Toolbox\Algorithmic Toolbox\bin\Debug\Algorithmic Toolbox.pdb
+c:\users\user\documents\visual studio 2015\Projects\Algorithmic Toolbox\Algorithmic Toolbox\obj\Debug\APlusB.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Algorithmic Toolbox\Algorithmic Toolbox\obj\Debug\Algorithmic Toolbox.exe
+c:\users\user\documents\visual studio 2015\Projects\Algorithmic Toolbox\Algorithmic Toolbox\obj\Debug\Algorithmic Toolbox.pdb
